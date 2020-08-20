@@ -1,0 +1,19 @@
+{
+  "name": "teampagechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/django-json/teampagechallenge.git"
+  },
+  "author": "Json Django",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/django-json/teampagechallenge/issues"
+  },
+  "homepage": "https://github.com/django-json/teampagechallenge#readme"
+}
